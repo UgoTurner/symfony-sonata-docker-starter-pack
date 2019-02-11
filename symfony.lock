@@ -1,0 +1,38 @@
+{
+    "behat/transliterator": {
+        "version": "v1.2.0"
+    },
+    "fabpot/goutte": {
+        "version": "v3.2.3"
+    },
+    "gedmo/doctrine-extensions": {
+        "version": "v2.4.36"
+    },
+    "guzzlehttp/guzzle": {
+        "version": "6.3.3"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.5.2"
+    },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
+    "ralouphie/getallheaders": {
+        "version": "2.0.5"
+    },
+    "sonata-project/doctrine-orm-admin-bundle": {
+        "version": "3.8.2"
+    },
+    "stof/doctrine-extensions-bundle": {
+        "version": "1.2",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "master",
+            "version": "1.2",
+            "ref": "6c1ceb662f8997085f739cd089bfbef67f245983"
+        }
+    }
+}
